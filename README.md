@@ -1,8 +1,12 @@
-# project0
+# Project 0
+
+Web Programming with Python and JavaScript
+
 
 This project is a website about bitcoin cryptocurrency, the website
- has a total of six webpages including the index page which are all linked 
-togeathe. There are bootstrap navigation bars on all pages with little modifications.
+ has a total of six webpages including the index page which all linked 
+togeather, on index page there incudes a bootstrap navigation bar at the top and bottom with 
+a little bit of modification.
 There are a few bootstrap components, symbols on the webpage, there is an ordered list, the ordered list were were used as
  links to other informations on the same page using the #id
 The @media query was used for The heading h1, to change the heading h1,
