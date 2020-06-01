@@ -1,0 +1,17 @@
+# project0
+
+This project is a website about bitcoin cryptocurrency, the website
+ has a total of six webpages including the index page which are all linked 
+togeathe. There are bootstrap navigation bars on all pages with little modifications.
+There are a few bootstrap components, symbols on the webpage, there is an ordered list, the ordered list were were used as
+ links to other informations on the same page using the #id
+The @media query was used for The heading h1, to change the heading h1,
+to a different word when devices with smaller screen are used to view
+teh webpage.
+A table was included on the website, with a hovering feature, to change color of
+ the tables rows and columns, when your mouse hovers across the table.
+A stylesheet was used for the webpages, the styleheet included different css
+ properties and selectors.
+The #id and .class selectors were used.
+Using bootstrap grid model, Bootstrap colums were used for layout, in webpage (project4).
+SSCS variables were used on the webpage.
